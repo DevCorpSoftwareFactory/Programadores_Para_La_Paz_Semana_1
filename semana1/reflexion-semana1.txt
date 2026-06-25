@@ -1,1 +1,56 @@
-El uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git están profundamente conectados. En primer lugar, como ciudadanos digitales, tenemos la responsabilidad de verificar la información antes de compartirla, ya que lo que publicamos puede influir en la opinión pública y en las decisiones de otros. Esta verificación es un acto de participación ciudadana, pues contribuye a un entorno digital más confiable y saludable. Por otro lado, herramientas como Git nos enseñan a organizar nuestro trabajo técnico de manera ordenada, manteniendo un historial de cambios y permitiendo la colaboración con otros. Esta organización del trabajo es similar a la responsabilidad que debemos tener como ciudadanos: documentar, ser transparentes y trabajar de forma colaborativa. En resumen, tanto el pensamiento algorítmico como el uso de herramientas de control de versiones nos forman como profesionales responsables, capaces de contribuir positivamente a la sociedad digital. Participar en entornos digitales no es solo usar tecnología, sino hacerlo con ética, organización y compromiso con la verdad.
+╔═══════════════════════════════════════════════════════════════╗
+║           REFLEXIÓN - TAREA SEMANA 1                          ║
+║           Programadores Por La Paz                            ║
+║           Ciudadanía Digital y Herramientas Técnicas          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+┌───────────────────────────────────────────────────────────────┐
+│  PREGUNTA:                                                    │
+│  ¿Por qué es importante la ciudadanía digital, el uso        │
+│  responsable de la información y la organización del          │
+│  trabajo técnico con herramientas como Git?                   │
+└───────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 MI REFLEXIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+El uso responsable de la información en internet, la
+participación ciudadana y la organización del trabajo técnico
+con herramientas como Git están profundamente conectados.
+
+En primer lugar, como ciudadanos digitales, tenemos la
+responsabilidad de verificar la información antes de
+compartirla, ya que lo que publicamos puede influir en la
+opinión pública y en las decisiones de otros. Esta
+verificación es un acto de participación ciudadana, pues
+contribuye a un entorno digital más confiable y saludable.
+
+Por otro lado, herramientas como Git nos enseñan a organizar
+nuestro trabajo técnico de manera ordenada, manteniendo un
+historial de cambios y permitiendo la colaboración con otros.
+Esta organización del trabajo es similar a la responsabilidad
+que debemos tener como ciudadanos: documentar, ser
+transparentes y trabajar de forma colaborativa.
+
+En resumen, tanto el pensamiento algorítmico como el uso de
+herramientas de control de versiones nos forman como
+profesionales responsables, capaces de contribuir positivamente
+a la sociedad digital.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 PUNTOS CLAVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✓ Ciudadanía digital: uso responsable de la tecnología
+  ✓ Verificación de información: acto de responsabilidad
+  ✓ Git: herramienta para organizar el trabajo técnico
+  ✓ Colaboración: trabajar de forma transparente y ordenada
+  ✓ Compromiso con la verdad y la ética digital
+
+════════════════════════════════════════════════════════════════
+  Estudiante: Devin Polanco Romero
+  Programa: Programadores Por La Paz
+  Universidad de Cartagena
+  Semana 1 - Junio 2026
+════════════════════════════════════════════════════════════════

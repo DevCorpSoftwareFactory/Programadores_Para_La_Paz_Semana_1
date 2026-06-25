@@ -1,8 +1,50 @@
-Pregunta 1:
-Respuesta: B. El uso responsable de la tecnología para informarse, participar y compartir información de manera ética
+╔═══════════════════════════════════════════════════════════════╗
+║           RESPUESTAS - TAREA SEMANA 1                         ║
+║           Programadores Por La Paz                            ║
+║           Ciudadanía Digital y Herramientas Técnicas          ║
+╚═══════════════════════════════════════════════════════════════╝
 
-Pregunta 2:
-Respuesta: C. Para evitar difundir información falsa o engañosa
+┌───────────────────────────────────────────────────────────────┐
+│  PREGUNTA 1                                                   │
+│  ¿Qué es ciudadanía digital?                                  │
+├───────────────────────────────────────────────────────────────┤
+│  A. Uso exclusivo de redes sociales                           │
+│  B. El uso responsable de la tecnología para informarse,      │
+│     participar y compartir información de manera ética        │
+│  C. Tener un dispositivo electrónico                          │
+│  D. Saber programar en un lenguaje de código                  │
+├───────────────────────────────────────────────────────────────┤
+│  ✔ RESPUESTA: B                                               │
+└───────────────────────────────────────────────────────────────┘
 
-Pregunta 3:
-Respuesta: B. Una lista de pasos ordenados para resolver un problema
+┌───────────────────────────────────────────────────────────────┐
+│  PREGUNTA 2                                                   │
+│  ¿Por qué es importante verificar la información              │
+│  antes de compartirla en internet?                            │
+├───────────────────────────────────────────────────────────────┤
+│  A. Para ganar seguidores en redes sociales                   │
+│  B. Porque todo lo que se publica es verdad                   │
+│  C. Para evitar difundir información falsa o engañosa         │
+│  D. Porque es requisito de las plataformas                    │
+├───────────────────────────────────────────────────────────────┤
+│  ✔ RESPUESTA: C                                               │
+└───────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────┐
+│  PREGUNTA 3                                                   │
+│  ¿Qué es un algoritmo?                                       │
+├───────────────────────────────────────────────────────────────┤
+│  A. Un tipo de virus informático                              │
+│  B. Una lista de pasos ordenados para resolver un problema    │
+│  C. Un programa de computadora                                │
+│  D. Una red social                                            │
+├───────────────────────────────────────────────────────────────┤
+│  ✔ RESPUESTA: B                                               │
+└───────────────────────────────────────────────────────────────┘
+
+════════════════════════════════════════════════════════════════
+  Estudiante: Devin Polanco Romero
+  Programa: Programadores Por La Paz
+  Universidad de Cartagena
+  Semana 1 - Junio 2026
+════════════════════════════════════════════════════════════════

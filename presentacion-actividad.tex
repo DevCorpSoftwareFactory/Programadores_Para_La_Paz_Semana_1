@@ -1,0 +1,203 @@
+\documentclass[12pt,a4paper]{article}
+
+% Paquetes
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Colores personalizados
+\definecolor{azulgit}{RGB}{24,80,50}
+\definecolor{grisclaro}{RGB}{245,245,245}
+
+% Configuración de hipervínculos
+\hypersetup{
+    colorlinks=true,
+    linkcolor=azulgit,
+    urlcolor=azulgit,
+    citecolor=azulgit
+}
+
+% Encabezado y pie de página
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{azulgit}{\small Programadores Por La Paz}}
+\fancyhead[R]{\textcolor{azulgit}{\small Semana 1}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Títulos
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{azulgit}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{azulgit!80!black}}
+  {\thesubsection}{1em}{}
+
+\begin{document}
+
+% Título
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    
+    {\Huge\bfseries\textcolor{azulgit}{DOCUMENTO DE PRESENTACIÓN}\\[0.5cm]}
+    {\Large\textcolor{azulgit!70!black}{Tarea Semana 1}}\\[1cm]
+    
+    \vspace{1cm}
+    
+    {\Large Ciudadanía Digital y Herramientas Técnicas}\\[2cm]
+    
+    \vspace{2cm}
+    
+    {\large\textbf{Programa:}}\\
+    {\large Programadores Por La Paz}\\[1.5cm]
+    
+    {\large\textbf{Universidad de Cartagena}}\\[2cm]
+    
+    \vfill
+    
+    {\large\textbf{Estudiante:}}\\
+    {\Large Devin Polanco Romero}\\[1cm]
+    
+    {\large Junio 2026}
+    
+\end{titlepage}
+
+% Índice
+\tableofcontents
+\newpage
+
+% Contenido principal
+\section{Información General}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|>{\bfseries}l|l|}
+\hline
+\textbf{Campo} & \textbf{Detalle} \\
+\hline
+Estudiante & Devin Polanco Romero \\
+\hline
+Programa & Programadores Por La Paz \\
+\hline
+Institución & Universidad de Cartagena \\
+\hline
+Actividad & Tarea Semana 1 \\
+\hline
+Tema & Ciudadanía Digital y Herramientas Técnicas \\
+\hline
+Fecha & Junio 2026 \\
+\hline
+\end{tabular}
+\caption{Información de la actividad}
+\end{table}
+
+\section{Enlace del Repositorio}
+
+El desarrollo de la actividad fue publicado en el siguiente repositorio de GitHub:
+
+\vspace{0.5cm}
+
+\begin{center}
+\large
+\url{https://github.com/DevCorpSoftwareFactory/Programadores_Para_La_Paz_Semana_1}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent La carpeta \texttt{semana1} contiene todos los archivos solicitados para la entrega de la actividad.
+
+\section{Objetivo de la Semana}
+
+Comprender la relación entre \textbf{ciudadanía digital}, uso responsable de la información, \textbf{pensamiento algorítmico} y organización técnica del trabajo, iniciando el uso de Git y GitHub para registrar y publicar la actividad realizada.
+
+\section{Desarrollo de la Actividad}
+
+\subsection{Preguntas de Selección Múltiple}
+
+Se respondieron tres preguntas sobre ciudadanía digital y pensamiento algorítmico:
+
+\begin{enumerate}[label=\textbf{\arabic*.}]
+    \item \textbf{¿Qué es ciudadanía digital?} \\
+    Respuesta: El uso responsable de la tecnología para informarse, participar y compartir información de manera ética.
+    
+    \item \textbf{¿Por qué es importante verificar la información?} \\
+    Respuesta: Para evitar difundir información falsa o engañosa.
+    
+    \item \textbf{¿Qué es un algoritmo?} \\
+    Respuesta: Una lista de pasos ordenados para resolver un problema.
+\end{enumerate}
+
+\subsection{Algoritmo: Compartir Información Confiable}
+
+Se diseñó un algoritmo de 8 pasos para compartir información responsable en internet:
+
+\begin{enumerate}
+    \item Identificar la información y definir el tema
+    \item Buscar en fuentes oficiales y reconocidas
+    \item Verificar las credenciales del autor
+    \item Contrastar con al menos 2 fuentes adicionales
+    \item Revisar la fecha de publicación
+    \item Evaluar el lenguaje (descartar sensacionalismo)
+    \item Verificar datos verificables y referencias
+    \item Compartir solo cuando se confirme su veracidad
+\end{enumerate}
+
+\subsection{Reflexión}
+
+Se desarrolló una reflexión sobre la importancia de la ciudadanía digital, destacando:
+
+\begin{itemize}
+    \item La responsabilidad de verificar la información antes de compartirla
+    \item La conexión entre participación ciudadana y entornos digitales confiables
+    \item El papel de Git en la organización del trabajo técnico
+    \item La importancia de la ética y el compromiso con la verdad
+\end{itemize}
+
+\section{Archivos Entregados}
+
+La carpeta \texttt{semana1} contiene los siguientes archivos:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Archivo} & \textbf{Contenido} \\
+\hline
+preguntas-semana1.txt & Respuestas de selección múltiple \\
+\hline
+algoritmo-semana1.txt & Algoritmo de 8 pasos para compartir información \\
+\hline
+reflexion-semana1.txt & Reflexión sobre ciudadanía digital \\
+\hline
+\end{tabular}
+\caption{Archivos de la actividad}
+\end{table}
+
+\section{Conclusiones}
+
+\begin{itemize}
+    \item Se comprendió el concepto de ciudadanía digital y su importancia en el entorno actual.
+    \item Se diseñó un algoritmo práctico para verificar y compartir información confiable.
+    \item Se reconoció la conexión entre la organización técnica del trabajo y la responsabilidad ciudadana.
+    \item Se inició el uso de Git y GitHub como herramientas de registro y publicación.
+\end{itemize}
+
+\section{Referencias}
+
+\begin{itemize}
+    \item Documentación oficial de Git: \url{https://git-scm.com/doc}
+    \item Documentación de GitHub: \url{https://docs.github.com}
+    \item Libro Pro Git: \url{https://git-scm.com/book/es/v2}
+\end{itemize}
+
+\end{document}

@@ -1,10 +1,73 @@
-Algoritmo: Cómo compartir información confiable en internet
+╔═══════════════════════════════════════════════════════════════╗
+║           ALGORITMO - TAREA SEMANA 1                          ║
+║           Programadores Por La Paz                            ║
+║           Ciudadanía Digital y Herramientas Técnicas          ║
+╚═══════════════════════════════════════════════════════════════╝
 
-1. Identificar la información que se desea compartir y definir claramente el tema o la noticia.
-2. Buscar la información en fuentes oficiales y reconocidas, como medios de comunicación establecidos o instituciones públicas.
-3. Verificar el autor de la información, revisando si tiene credenciales, experiencia o reconocimiento en el tema tratado.
-4. Contrastar la información con al menos dos fuentes adicionales independientes para confirmar su veracidad.
-5. Revisar la fecha de publicación para asegurarse de que la información sea actual y no esté desactualizada.
-6. Evaluar el lenguaje utilizado en la fuente, descartando contenido que contenga sensacionalismo, sesgo evidente o intención manipuladora.
-7. Verificar si la información incluye datos verificables, como cifras, enlaces a documentos oficiales o referencias bibliográficas.
-8. Compartir la información únicamente cuando se haya confirmado su veracidad por completo, añadiendo una breve descripción del contexto para que el receptor comprenda la situación.
+┌───────────────────────────────────────────────────────────────┐
+│  CÓMO COMPARTIR INFORMACIÓN CONFIABLE EN INTERNET            │
+│  Algoritmo de 8 pasos                                        │
+└───────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 1: IDENTIFICAR LA INFORMACIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Definir claramente el tema o la noticia que se desea
+    compartir.
+  → Preguntarse: ¿Qué información quiero transmitir?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 2: BUSCAR EN FUENTES OFICIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Utilizar medios de comunicación establecidos.
+  → Consultar instituciones públicas y organismos oficiales.
+  → Evitar fuentes no verificadas o desconocidas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 3: VERIFICAR EL AUTOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Revisar si el autor tiene credenciales.
+  → Verificar su experiencia en el tema tratado.
+  → Confirmar si tiene reconocimiento en el área.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 4: CONTRASTAR CON OTRAS FUENTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Comparar la información con al menos 2 fuentes adicionales.
+  → Las fuentes deben ser independientes entre sí.
+  → Confirmar que la información sea consistente.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 5: REVISAR LA FECHA DE PUBLICACIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Verificar que la información sea actual.
+  → Descartar contenido desactualizado.
+  → Los datos antiguos pueden generar confusión.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 6: EVALUAR EL LENGUAJE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Descartar contenido con sensacionalismo.
+  → Identificar sesgo evidente o intención manipuladora.
+  → Preferir lenguaje neutral y basado en hechos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 7: VERIFICAR DATOS Y REFERENCIAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Buscar datos verificables (cifras, estadísticas).
+  → Revisar enlaces a documentos oficiales.
+  → Confirmar referencias bibliográficas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PASO 8: COMPARTIR RESPONSABLEMENTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Compartir SOLO cuando se confirme la veracidad.
+  → Añadir una breve descripción del contexto.
+  → Ayudar al receptor a comprender la situación.
+
+════════════════════════════════════════════════════════════════
+  Estudiante: Devin Polanco Romero
+  Programa: Programadores Por La Paz
+  Universidad de Cartagena
+  Semana 1 - Junio 2026
+════════════════════════════════════════════════════════════════
